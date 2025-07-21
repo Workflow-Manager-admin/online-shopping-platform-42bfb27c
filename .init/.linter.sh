@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/online-shopping-platform-42bfb27c/shopping_frontend
+flutter analyze
+
